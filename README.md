@@ -91,7 +91,11 @@ CS423-SOLID-TEAM3_QUERY/
 - **LLM Architectural Behavior:** When explicitly guided by prompt constraints, LLMs can enforce clean architecture patterns like DIP and Factory patterns effectively. However, without strict prompt engineering, LLMs tend to generate monolithic code with high coupling.
 
 ---
+## Task 3 & 4 Analysis Report
 
+For the complete SOLID compliance analysis, metric breakdowns, and architectural reflections, please read our [Full Report (report.md)](report.md).
+
+---
 ## Team Information
 **Course:** CSE423 - Software Architecture  
 **Group:** Team 3  
