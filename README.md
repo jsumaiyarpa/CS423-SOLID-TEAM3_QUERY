@@ -25,7 +25,6 @@ This repository contains the selected files from the **Query** module of the **g
 
 ## Repository Structure
 
-```text
 CS423-SOLID-TEAM3_QUERY/
 ├── greenDAO/
 │   └── query/                 <-- Human Code (H)
