@@ -48,7 +48,7 @@ CS423-SOLID-TEAM3_QUERY/
 ├── prompt_iterations.md       <-- LLM Refinement Log
 └── README.md
 
----
+```
 
 ## TASK 3: SOLID Principles Compliance Analysis
 
