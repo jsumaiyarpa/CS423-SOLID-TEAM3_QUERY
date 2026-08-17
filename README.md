@@ -2,29 +2,30 @@
 
 ## Project Overview
 
-This repository contains the selected files from the **Query** module of the **greenDAO** open-source project[cite: 1]. The files were selected for the CSE423 Software Architecture course assignment to analyze the software structure and identify opportunities for applying the SOLID principles[cite: 1].
+This repository contains the selected files from the **Query** module of the **greenDAO** open-source project. The files were selected for the CSE423 Software Architecture course assignment to analyze the software structure and identify opportunities for applying the SOLID principles.
 
 ## Original Repository
 
-- **Project Name:** greenDAO[cite: 1]
-- **GitHub Repository:** https://github.com/greenrobot/greenDAO[cite: 1]
+- **Project Name:** greenDAO
+- **GitHub Repository:** https://github.com/greenrobot/greenDAO
 
 ## Selected Module
 
-- Query Module[cite: 1]
+- Query Module
 
 ## Selected Files
 
-1. AbstractQuery.java[cite: 1]
-2. Query.java[cite: 1]
-3. QueryBuilder.java[cite: 1]
-4. CountQuery.java[cite: 1]
-5. CursorQuery.java[cite: 1]
-6. DeleteQuery.java[cite: 1]
-7. LazyList.java[cite: 1]
+1. AbstractQuery.java
+2. Query.java
+3. QueryBuilder.java
+4. CountQuery.java
+5. CursorQuery.java
+6. DeleteQuery.java
+7. LazyList.java
 
 ## Repository Structure
 
+```text
 CS423-SOLID-TEAM3_QUERY/
 ├── greenDAO/
 │   └── query/                 <-- Human Code (H)
@@ -55,7 +56,7 @@ CS423-SOLID-TEAM3_QUERY/
 - **Language Requirement:** Java (Satisfies Java/Python/TypeScript rule)
 - **Size Requirement:** > 10,000 LOC, > 1,000 Commits (Satisfied)
 - **History Requirement:** Initial commit in 2011 (Pre-2020 snapshot, > 2 years active development) (Satisfied)
-- **Structure Requirement:** Contains structural core folders including `query`, `dao`, and `internal` subpackages[cite: 1] (Satisfied)
+- **Structure Requirement:** Contains structural core folders including `query`, `dao`, and `internal` subpackages (Satisfied)
 - **System Type Requirement:** Real-world ORM Framework / Multi-module Android Database Engine (Satisfied)
 
 ---
